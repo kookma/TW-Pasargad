@@ -1,0 +1,6 @@
+title: $:/plugins/kookma/pasargad/list-tasks-finished
+
+<$list filter="[tag[task]tag[done]]" emptyMessage="Nothing done yet!">
+<$checkbox tag=done/>&nbsp;
+~~<$link to=<<currentTiddler>>>{{!!title}}</$link>~~<br>
+</$list>

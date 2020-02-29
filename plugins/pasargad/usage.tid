@@ -1,0 +1,20 @@
+title: $:/plugins/kookma/pasargad/usage
+
+After installing the Pasargad plugin in your Tiddlywiki, you can simply embed its interface whenever you like.
+
+* Create a new tiddler
+* Put the below wikitext as its text field <div>
+
+`{{$:/plugins/kookma/pasargad/user-interface}}`
+
+</div>
+
+
+!! Use task manager in sidebar
+If you like to use the Rome task manager in the sidebar do as following
+
+# Open the tiddler created above
+# Tagg it with `$:/tags/SideBar`
+# Add the caption field with `My Tasks` as value
+
+Now look at the sidebar and see the new tab ''My Tasks''.

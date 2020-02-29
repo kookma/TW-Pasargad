@@ -1,0 +1,7 @@
+created: 20200229133917097
+modified: 20200229134951069
+tags: start
+title: My First Plugin: Task manager
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/kookma/pasargad/user-interface}}

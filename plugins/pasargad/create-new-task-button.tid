@@ -1,0 +1,6 @@
+title: $:/plugins/kookma/pasargad/create-new-task-button
+
+\define create-new-task()
+<$action-sendmessage $message="tm-new-tiddler" title="new task" tags="task" text=<<now "Today is DDth, MMM YYYY">>/>
+\end
+<$button actions=<<create-new-task>> >New task</$button>

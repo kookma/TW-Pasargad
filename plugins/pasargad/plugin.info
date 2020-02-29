@@ -1,0 +1,10 @@
+{
+"title": "$:/plugins/kookma/pasargad",
+"description": "Pasargad a simple task manager",
+"plugin-type": "plugin",	
+"author": "MOhammad Rahmani",
+"version": "0.1.0",
+"core-version": ">=5.1.21",
+"list": "readme usage license",
+"source": "https://github.com/kookma/TW-Pasargad"
+}

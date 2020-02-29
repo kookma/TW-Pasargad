@@ -1,0 +1,11 @@
+title: $:/plugins/kookma/pasargad/user-interface
+
+! My daily tasks
+
+{{$:/plugins/kookma/pasargad/create-new-task-button}}
+
+!! Unfinished tasks
+> {{$:/plugins/kookma/pasargad/list-tasks-unfinished}}
+
+!! Finished tasks
+> {{$:/plugins/kookma/pasargad/list-tasks-finished}}
